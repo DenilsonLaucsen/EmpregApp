@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "177035510526",
+    "firebase_url": "https://empregapp-cafdb.firebaseio.com",
+    "project_id": "empregapp-cafdb",
+    "storage_bucket": "empregapp-cafdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177035510526:android:59e27560c7a9476c1ddbaf",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177035510526-teidpbvna2d3dqtduntvjnkk6cevdnof.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.app",
+            "certificate_hash": "54675bda124b1366006f6e799c0c08b1e3da5520"
+          }
+        },
+        {
+          "client_id": "177035510526-rtlvqlumcfsv8368bnuhcagoi8uqsjbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC44_wbMTD8FI96oSNfl61m3f7kgIEIJY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177035510526-rtlvqlumcfsv8368bnuhcagoi8uqsjbl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
