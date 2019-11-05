@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">EmpregAPP</string>
-    <string name="title_activity_maps">Map</string>
-    <string name="titulo_cadastro">Cadastrar uma conta</string>
-    <string name="titulo_login">Acessar minha conta</string>
-</resources>
